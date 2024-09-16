@@ -1,5 +1,4 @@
-
-#Python Telebot Programs
+#**Python Telebot Programs**
 
 Welcome to the Python Telebot Programs repository! This project contains a collection of bots built using Python and the PyTelegramBotAPI library, also known as Telebot. 
 These bots are designed to automate various tasks, provide information, and enhance user interaction on the Telegram messaging platform.
