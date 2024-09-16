@@ -109,6 +109,7 @@ In each Python bot script, replace the placeholder token with your actual bot to
 import telebot
 
  **Replace 'YOUR_BOT_TOKEN' with your actual bot token from BotFather**
+ 
 bot = telebot.TeleBot("YOUR_BOT_TOKEN")
 
 
